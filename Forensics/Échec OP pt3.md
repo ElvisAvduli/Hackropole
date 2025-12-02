@@ -86,4 +86,3 @@ fail2ban.filter [5082]: INFO [sshd] Found 192.168.37.1 - 2022-03-27 04:12:26
 FCSC{192.168.37.1}
 ```
 
-*(End of writeup)*
